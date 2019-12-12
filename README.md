@@ -8,5 +8,6 @@ Algumas configurações de API's foram feitas manualmente, são elas:
 - react-native-camera;
 - react-native-cameraroll;
 - react-native-vector-icons;
+
 e por esse motivo, caso algum erro de execução ocorra, execute:
 - react-native link;
