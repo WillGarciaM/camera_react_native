@@ -9,5 +9,5 @@ Algumas configurações de API's foram feitas manualmente, são elas:
 - react-native-cameraroll;
 - react-native-vector-icons;
 
-e por esse motivo, caso algum erro de execução ocorra, execute:
+e por esse motivo, caso algum erro de instalação ocorra, execute:
 - react-native link;
